@@ -1,4 +1,4 @@
-{
+"postcss-load-config": "^5.0.0"{
   "private": true,
   "scripts": {
     "ury-pos-install": "cd urypos && yarn install --check-files",
